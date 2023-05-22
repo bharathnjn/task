@@ -18,8 +18,7 @@ static void checkPrime(int n){
  public static void main(String args[]){    
   checkPrime(1);  
   checkPrime(3);  
-  checkPrime(17);  
-  checkPrimg(30);  
+  checkPrime(17);    
 }    
 } 
 
