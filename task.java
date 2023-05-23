@@ -16,7 +16,7 @@ static void checkPrime(int n){
   }//end of else  
 }  
  public static void main(String args[]){    
-  checkPrime(1);  
+  checkPrime(100);  
   checkPrime(3);  
   checkPrime(17);    
 }    
